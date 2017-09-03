@@ -1,0 +1,3 @@
+/media/ricardo/MyFiles/CarND-Kidnapped-Vehicle-Project/build/CMakeFiles/rebuild_cache.dir
+/media/ricardo/MyFiles/CarND-Kidnapped-Vehicle-Project/build/CMakeFiles/edit_cache.dir
+/media/ricardo/MyFiles/CarND-Kidnapped-Vehicle-Project/build/CMakeFiles/particle_filter.dir
